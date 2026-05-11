@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/why-smarter-bottle",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a why-smarter-bottle",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/why-smarter-bottle.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://coscouture.com/smarter-bottle-cleaning-parenting/"
+    },
+    "homepage": "https://coscouture.com/smarter-bottle-cleaning-parenting/"
+}
